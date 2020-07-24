@@ -4,17 +4,17 @@
 
 <h3>Short note about me</h3>
 <ul>
-    <li>🔭 I’m currently working on ![My Personal Website](https://smswajan.com/)
+    <li>🔭 I’m currently working on <a href="https://smswajan.com/">My Personal Website</a>
     <li>🌱 I’m currently learning MERN Stack
     <li>👯 I’m looking to collaborate on React projects
     <li>🤔 I’m looking for help with Redux
     <li>💬 Ask me about anything, I'll try to catch you up.
-    <li>📫 How to reach me: ![smswajan@gmail.com](mailto:smswajan@gmail.com)
+    <li>📫 How to reach me: <a href="mailto:smswajan@gmail.com">smswajan@gmail.com</a>
     <li>😄 Pronouns: he/him❤️
     <li>⚡ Fun fact: Sleepoholic😁
 </ul>
 
-<h4>Catch me at:
+<h4>Catch me at:</h4>
 <a href="https://www.linkedin.com/in/smswajan"><img src="https://github.com/smswajan/smswajan/blob/master/img/linkedin.png" width="40" /></a>
 <a href="https://github.com/smswajan"><img src="https://github.com/smswajan/smswajan/blob/master/img/github-logo.png" width="40" /></a>
 <a href="https://twitter.com/smswajan"><img src="https://github.com/smswajan/smswajan/blob/master/img/twitter.png" width="40" /></a>
