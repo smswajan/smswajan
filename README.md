@@ -1,6 +1,6 @@
 ![banner-img](https://github.com/smswajan/smswajan/blob/master/img/banner.png)
 
-<h2>Hello!<img src="https://raw.githubusercontent.com/smswajan/smswajan/master/img/Hi.gif" width="30px"></h2>
+<h2>Hello!<img src="https://github.com/smswajan/smswajan/blob/master/img/Hi.gif" width="30px"></h2>
 <h1>I am <a href="https://smswajan.com/">Swajan</a></h1>
 
 <h3>Short note about me</h3>
