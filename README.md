@@ -4,8 +4,8 @@
 
 <h3>Short note about me</h3>
 <ul>
-    <li>🔭 I’m currently working on <a href="https://prottoy.com.bd/">Prottoy</a>.
-    <li>🌱 I’m currently learning MERN Stack
+    <li>🔭 I’m currently working at <a href="https://prottoy.com.bd/">Prottoy</a>.
+    <li>🌱 I’m learning React, Redux, GatsbyJS, Firebase, GraphQL, MongoDB, NodeJS
     <li>👯 I’m looking to collaborate on React projects
     <li>🤔 I’m looking for help with Redux
     <li>💬 Ask me about anything, I'll try to catch you up.
@@ -23,3 +23,5 @@
 <a href="https://www.instagram.com/smswajan"><img src="https://github.com/smswajan/smswajan/blob/master/img/instagram.png" width="40" /></a> -->
 
 <!-- ![Swajan's Github Stats](https://github-readme-stats.vercel.app/api?username=smswajan&show_icons=true) -->
+
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=smswajan&card_width=550)](https://github.com/smswajan/smswajan)
