@@ -1,4 +1,4 @@
-![banner-img](https://github.com/smswajan/smswajan/blob/master/img/banner.png)
+![banner-img](https://firebasestorage.googleapis.com/v0/b/swajanio.appspot.com/o/shahjahan-md-swajan.png?alt=media&token=601b2614-d480-4de2-b493-ca4a25f9916f)
 
 <h1>Hello! I am <a href="https://swajan.io/">Swajan</a> <img src="https://github.com/smswajan/smswajan/blob/master/img/Hi.gif" width="30px"></h1>
 
