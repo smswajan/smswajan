@@ -6,11 +6,12 @@
 
 # Hey, I'm Swajan 👋
 
-**Co-Founder & CEO @ [fredocloud](https://fredocloud.com) · Senior Full Stack Engineer @ [MyelinZ](https://myelinz.com)**
+**CEO @ [fredocloud](https://fredocloud.com) · Senior Full Stack Engineer @ [MyelinZ](https://myelinz.com)**
 
 I went from managing payroll for 700+ employees at British American Tobacco to building software that runs entire businesses. Now I lead a team across 7 countries, shipping AI-powered platforms, custom SaaS products, and automation systems for companies in healthcare, real estate, finance, and government.
 
 [![Website](https://img.shields.io/badge/fredocloud.com-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fredocloud.com)
+[![MyelinZ](https://img.shields.io/badge/myelinz.com-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://myelinz.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swajannn)
 [![Twitter](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/swajannn)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smswajan@gmail.com)
@@ -38,7 +39,7 @@ Mobile       →  Flutter · React Native
 ### 📍 Career Path
 
 ```
-2025 - now    →  Co-Founder & CEO @ fredocloud (Dubai/Sharjah)
+2025 - now    →  CEO @ fredocloud (Dubai/Sharjah)
 2024 - now    →  Senior Full Stack Engineer @ MyelinZ
 2023 - 2025   →  Project Deployment Lead, HR @ British American Tobacco
 2021 - 2022   →  Lead IT & MIS Specialist @ Shubhankar Consulting
@@ -73,5 +74,6 @@ Certified scuba diver · Solo traveler · Learning Spanish · Coffee enthusiast 
 
 [![Let's Talk](https://img.shields.io/badge/Let's_Talk-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+8801602603812)
 [![Book a Call](https://img.shields.io/badge/fredocloud.com-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fredocloud.com)
+[![MyelinZ](https://img.shields.io/badge/myelinz.com-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://myelinz.com)
 
 </div>
